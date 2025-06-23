@@ -1,4 +1,4 @@
-name: 'air_40'
+name: 'nodoubtz artifacts'
 description: 'Cache artifacts like dependencies and build outputs to improve workflow execution time'
 author: 'Shannon Fletcher'
 inputs:
